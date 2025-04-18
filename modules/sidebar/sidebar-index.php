@@ -14,9 +14,3 @@ if ($showAd): ?>
         <?php $this->need('/modules/sidebar/widget/advertisement.php'); ?>
     </div>
 <?php endif; ?>
-
-
-
-
-
-
